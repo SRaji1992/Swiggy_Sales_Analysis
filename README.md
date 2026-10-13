@@ -52,35 +52,52 @@ Data analysis: JOINs, CASE statements, aggregate functions
 The screenshots below show selected outputs from the SQL analysis.
 
 1.Revenue and Order Metrics
+
 ![Total Revenue](SCREENSHOTS/Total_revenue.JPG)
+
 
 ![Total Orders](SCREENSHOTS/Total_orders.JPG)
 
+
 ![Average Dish Price](SCREENSHOTS/Avg_dish_price.JPG)
+
 
 ![Average Rating](SCREENSHOTS/Avg_rating.JPG)
 
+
 2.Restaurant, Category, and City Analysis
+
+
 ![Top 10 Restaurants by Revenue](SCREENSHOTS/Top10Restaurant_byRevenue.JPG)
+
 
 ![Top 10 Categories by Orders](SCREENSHOTS/Top10categories_byOrder.JPG)
 
+
 ![Top 10 Cities by Revenue](SCREENSHOTS/Top10cities_byRevenue.JPG)
+
 
 ![Most Ordered Dish](SCREENSHOTS/MostOrderedDish.JPG)
 
 3.Trends and Customer Insights
+
 ![Monthly Order Trends](SCREENSHOTS/Monthly_order_trends.JPG)
+
 
 ![Quarterly Trends](SCREENSHOTS/Quarterly_trends.JPG)
 
+
 ![Yearly Trends](SCREENSHOTS/Yearly_trends.JPG)
+
 
 ![Weekday Trends](SCREENSHOTS/Weekday_trends.JPG)
 
+
 ![Cuisine Performance](SCREENSHOTS/cuisine_performance.JPG)
 
+
 ![Customer Spending Insights](SCREENSHOTS/customer_spending-insights.JPG)
+
 
 ## Skills Demonstrated
 - SQL-based data cleaning and preparation
